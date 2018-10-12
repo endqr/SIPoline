@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="11" endPos="11" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Program Files\Notepad++\change.log" backupFilePath="" originalFileLastModifTimestamp="1497820678" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-705749184" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="15" xOffset="0" scrollWidth="3312" startPos="1159" endPos="1159" selMode="0" lang="PHP" encoding="-1" filename="E:\xampp\htdocs\bapenda_app\application\modules\user_ra_tambah\controllers\User_ra_tambah.php" backupFilePath="" originalFileLastModifTimestamp="1502091131" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3312" startPos="416" endPos="423" selMode="0" lang="PHP" encoding="-1" filename="E:\xampp\htdocs\bapenda_app\application\modules\user_ra_tambah\models\M_ra_tambah.php" backupFilePath="" originalFileLastModifTimestamp="1502078716" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="48" xOffset="0" scrollWidth="3312" startPos="2453" endPos="2453" selMode="0" lang="PHP" encoding="-1" filename="E:\xampp\htdocs\bapenda_app\application\modules\user_ra_tambah\views\v_ra_tambah.php" backupFilePath="" originalFileLastModifTimestamp="1502091752" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
