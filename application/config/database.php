@@ -99,7 +99,7 @@ $db['oracle'] = array(
 	'dsn'	=> '',
 	'hostname' => '172.20.31.1',
 	'username' => 'PBB',
-	'password' => 'Z2184SDNHGF8121RT58',
+	'password' => 'PASSWORD DATABASE ORACLE',
 	'database' => 'SIMPBB',
 	'dbdriver' => 'oci8',
 	'dbprefix' => '',
@@ -117,27 +117,3 @@ $db['oracle'] = array(
 	'save_queries' => TRUE,
 	'port' => 1521
 );
-/*
-$db['oracle'] = array(
-	'dsn'	=> '',
-	'hostname' => '192.168.56.201/XE',
-	'username' => 'PBB',
-	'password' => 'BuayoD4ra7',
-	'database' => 'PBB',
-	'dbdriver' => 'oci8',
-	'dbprefix' => '',
-	'pconnect' => TRUE,
-	'db_debug' => (ENVIRONMENT !== 'production'),
-	'cache_on' => FALSE,
-	'cachedir' => '',
-	'char_set' => 'utf8',
-	'dbcollat' => 'utf8_general_ci',
-	'swap_pre' => '',
-	'encrypt' => FALSE,
-	'compress' => FALSE,
-	'stricton' => FALSE,
-	'failover' => array(),
-	'save_queries' => TRUE,
-	'port' => 1521
-);
-*/
