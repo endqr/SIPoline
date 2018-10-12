@@ -97,7 +97,7 @@ $db['default'] = array(
 
 $db['oracle'] = array(
 	'dsn'	=> '',
-	'hostname' => '172.20.31.1',
+	'hostname' => '127.0.0.1',
 	'username' => 'PBB',
 	'password' => 'PASSWORD DATABASE ORACLE',
 	'database' => 'SIMPBB',
