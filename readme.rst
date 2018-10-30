@@ -1,29 +1,24 @@
 ###################
-What is CodeIgniter
+What is SIPOnline
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+SIPOnline merupakan aplikasi web yang dibangun untuk sistem pelaporan pajak online
+terutama Pajak Bumi dan Bangunan (terintegrasi dengan database SISMIOP) menggunakan
+Framework CodeIgniter dan beberapa plugin yang saya sendiri sudah lupa jenis2 nya :D
 
 *******************
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+SIPOnline ini akan selalu diupdate sesuai dengan kebutuhan saya selama bekerja di Bapenda
+Kota Padang
 
 **************************
 Changelog and New Features
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Untuk perubahan mungkin tidak akan ada dokumentasi karena saya hanya mengerjakan begitu saja
+dan jujur untuk pendokumentasian sendiri saya emang belum terbiasa. Hahahahaaaaa
 
 *******************
 Server Requirements
