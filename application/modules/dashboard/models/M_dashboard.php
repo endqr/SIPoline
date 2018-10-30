@@ -37,7 +37,7 @@ class M_dashboard extends CI_Model{
 			SELECT '080' as kd_kecamatan, '1608042427' as target_kecamatan, '13890' as wp123, '1566919847' as target123, '58' as wp45, '992784169' as target45, '05' as kode_pokja, 'POKJA 5' as nama_pokja UNION ALL 
 			SELECT '090' as kd_kecamatan, '3979720715' as target_kecamatan, '32800' as wp123, '2174593283' as target123, '75' as wp45, '1805127432' as target45, '04' as kode_pokja, 'POKJA 4' as nama_pokja UNION ALL 
 			SELECT '100' as kd_kecamatan, '2561970808' as target_kecamatan, '15591' as wp123, '1355770951' as target123, '124' as wp45, '2722443701' as target45, '04' as kode_pokja, 'POKJA 4' as nama_pokja UNION ALL 
-			SELECT '110' as kd_kecamatan, '10125831865' as target_kecamatan, '54293' as wp123, '5239702324' as target123, '753' as wp45, '10879042504' as target45, '05' as kode_pokja, 'POKJA 5' as nama_pokja";
+			SELECT '110' as kd_kecamatan, '1012583186' as target_kecamatan, '54293' as wp123, '5239702324' as target123, '753' as wp45, '10879042504' as target45, '05' as kode_pokja, 'POKJA 5' as nama_pokja";
 /*		
 		$sql = "SELECT ptk.kd_kecamatan, 
 					ptk.target_kecamatan, 
