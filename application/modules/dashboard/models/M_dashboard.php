@@ -27,17 +27,17 @@ class M_dashboard extends CI_Model{
 	
 	public function getTargetPokja(){
 		$Tahun = date('Y');
-		$sql = "SELECT '010' as kd_kecamatan, '1996445966' as target_kecamatan, '5340' as wp123, '258455477' as target123, '22' as wp45, '1737990489' as target45, '02' as kode_pokja, 'POKJA 2' as nama_pokja UNION ALL 
-			SELECT '020' as kd_kecamatan, '11094043192' as target_kecamatan, '11368' as wp123, '1014618970' as target123, '59' as wp45, '10079424222' as target45, '04' as kode_pokja, 'POKJA 4' as nama_pokja UNION ALL 
-			SELECT '030' as kd_kecamatan, '5060821720' as target_kecamatan, '22122' as wp123, '1777949067' as target123, '168' as wp45, '3282872653' as target45, '03' as kode_pokja, 'POKJA 3' as nama_pokja UNION ALL 
-			SELECT '040' as kd_kecamatan, '7255339522' as target_kecamatan, '10430' as wp123, '1342148626' as target123, '217' as wp45, '5913190896' as target45, '02' as kode_pokja, 'POKJA 2' as nama_pokja UNION ALL 
-			SELECT '050' as kd_kecamatan, '6085377198' as target_kecamatan, '15952' as wp123, '2361034188' as target123, '236' as wp45, '3724343010' as target45, '03' as kode_pokja, 'POKJA 3' as nama_pokja UNION ALL 
-			SELECT '060' as kd_kecamatan, '11752732570' as target_kecamatan, '14001' as wp123, '2903043374' as target123, '821' as wp45, '8849689196' as target45, '01' as kode_pokja, 'POKJA 1' as nama_pokja UNION ALL 
-			SELECT '070' as kd_kecamatan, '8018855621' as target_kecamatan, '13339' as wp123, '2633565527' as target123, '273' as wp45, '5385290094' as target45, '01' as kode_pokja, 'POKJA 1' as nama_pokja UNION ALL 
-			SELECT '080' as kd_kecamatan, '2559704016' as target_kecamatan, '13890' as wp123, '1566919847' as target123, '58' as wp45, '992784169' as target45, '05' as kode_pokja, 'POKJA 5' as nama_pokja UNION ALL 
+		$sql = "SELECT '010' as kd_kecamatan, '1254203720' as target_kecamatan, '5340' as wp123, '258455477' as target123, '22' as wp45, '1737990489' as target45, '02' as kode_pokja, 'POKJA 2' as nama_pokja UNION ALL 
+			SELECT '020' as kd_kecamatan, '6969314297' as target_kecamatan, '11368' as wp123, '1014618970' as target123, '59' as wp45, '10079424222' as target45, '04' as kode_pokja, 'POKJA 4' as nama_pokja UNION ALL 
+			SELECT '030' as kd_kecamatan, '3179244564' as target_kecamatan, '22122' as wp123, '1777949067' as target123, '168' as wp45, '3282872653' as target45, '03' as kode_pokja, 'POKJA 3' as nama_pokja UNION ALL 
+			SELECT '040' as kd_kecamatan, '4557840652' as target_kecamatan, '10430' as wp123, '1342148626' as target123, '217' as wp45, '5913190896' as target45, '02' as kode_pokja, 'POKJA 2' as nama_pokja UNION ALL 
+			SELECT '050' as kd_kecamatan, '3822870320' as target_kecamatan, '15952' as wp123, '2361034188' as target123, '236' as wp45, '3724343010' as target45, '03' as kode_pokja, 'POKJA 3' as nama_pokja UNION ALL 
+			SELECT '060' as kd_kecamatan, '7383102965' as target_kecamatan, '14001' as wp123, '2903043374' as target123, '821' as wp45, '8849689196' as target45, '01' as kode_pokja, 'POKJA 1' as nama_pokja UNION ALL 
+			SELECT '070' as kd_kecamatan, '2500096917' as target_kecamatan, '13339' as wp123, '2633565527' as target123, '273' as wp45, '5385290094' as target45, '01' as kode_pokja, 'POKJA 1' as nama_pokja UNION ALL 
+			SELECT '080' as kd_kecamatan, '1608042427' as target_kecamatan, '13890' as wp123, '1566919847' as target123, '58' as wp45, '992784169' as target45, '05' as kode_pokja, 'POKJA 5' as nama_pokja UNION ALL 
 			SELECT '090' as kd_kecamatan, '3979720715' as target_kecamatan, '32800' as wp123, '2174593283' as target123, '75' as wp45, '1805127432' as target45, '04' as kode_pokja, 'POKJA 4' as nama_pokja UNION ALL 
-			SELECT '100' as kd_kecamatan, '4078214652' as target_kecamatan, '15591' as wp123, '1355770951' as target123, '124' as wp45, '2722443701' as target45, '04' as kode_pokja, 'POKJA 4' as nama_pokja UNION ALL 
-			SELECT '110' as kd_kecamatan, '16118744828' as target_kecamatan, '54293' as wp123, '5239702324' as target123, '753' as wp45, '10879042504' as target45, '05' as kode_pokja, 'POKJA 5' as nama_pokja";
+			SELECT '100' as kd_kecamatan, '2561970808' as target_kecamatan, '15591' as wp123, '1355770951' as target123, '124' as wp45, '2722443701' as target45, '04' as kode_pokja, 'POKJA 4' as nama_pokja UNION ALL 
+			SELECT '110' as kd_kecamatan, '10125831865' as target_kecamatan, '54293' as wp123, '5239702324' as target123, '753' as wp45, '10879042504' as target45, '05' as kode_pokja, 'POKJA 5' as nama_pokja";
 /*		
 		$sql = "SELECT ptk.kd_kecamatan, 
 					ptk.target_kecamatan, 
